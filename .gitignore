@@ -3,6 +3,9 @@ selenium-based-llm-model/reports
 selenium-based-llm-model/logs
 selenium-based-llm-model/.env
 .env
+test_scripts
+.logs
+.reports
 myenv/
 selenium-based-llm-model/tempCodeRunnerFile.py
 selenium-based-llm-model/url_extraction_20250612_115256.log
